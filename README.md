@@ -1,5 +1,5 @@
 # Hello, I'm   Paola Calvillo
-Aspiring SOC Analyst.I am building practical skills through labs, real-world scenarios, and continuous study.
+Network Security Support Technician....Aspiring SOC Analyst.I am building practical skills through labs, real-world scenarios, and continuous study.
 
 ## Objective
 
@@ -53,11 +53,14 @@ Self-learning through certifications
 </div>
 
 ## Certifications
-- ccst cybersecurity cisco
+- Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)
   [![My Certification](PASTE_IMAGE_URL_HERE)](https://www.credly.com/badges/5aee4ae5-58aa-4983-9316-e78cffa4f446)
 
-- ccst networking cisco
+- Cisco Certified Support Technician Networking (CCST Networking)
   [![My Certification](PASTE_IMAGE_URL_HERE)](https://www.credly.com/badges/d907cf40-d22c-4bf4-a5f5-cc644d6a8134)
+
+- Network Security Support Technician
+  [![My Certification](PASTE_IMAGE_URL_HERE)](https://www.credly.com/badges/6ba46527-8788-4ab0-a70d-1a93aad08b2f)
 
 -  Google Cybersecurity Professional Certificate
   [![My Certification](PASTE_IMAGE_URL_HERE)](https://www.credly.com/badges/85e69467-686a-4f10-8ae9-f376c96c45d1)
